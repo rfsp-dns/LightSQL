@@ -4,7 +4,7 @@
 
 This code was provide for free personal usage, use this code as you want.
 
-*Any enterprise, company, etc... will need to **pay a licence** *
+*Any enterprise, company, etc...* *will need to* **pay a licence**
 
 ## About 
 
