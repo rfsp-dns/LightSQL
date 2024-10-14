@@ -32,6 +32,4 @@ C++
 
 ## License
 
-Distributed under the MIT License. 
-
-**Read the disclaimer before using it**
+...
