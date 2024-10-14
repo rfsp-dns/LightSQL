@@ -1,4 +1,4 @@
-# OpenSQL
+# LightSQL
 
 ### Disclaimer
 
@@ -8,9 +8,9 @@ This code was provide for free personal usage, use this code as you want.
 
 ## About 
 
-### What is OpenSQL 
+### What is LightSQL 
 
-OpenSQL is an embeded SQL for in-app comunication.
+LightSQL is an embeded SQL for in-app comunication.
 
 ### How can i use it ?
 
